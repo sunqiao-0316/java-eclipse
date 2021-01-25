@@ -11,6 +11,8 @@ public class Test0106 {
 		// TODO Auto-generated method stub
 		System.out.print("这是test0106的main方法");
 
+		
+		
 	}
 
 }
